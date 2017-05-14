@@ -7,6 +7,7 @@ Materiály sesbírané při výuce předmětu F4500 Python pro fyziky.
 * lekce_05_ Zábava s Adamem
 * lekce_06_ Dvořákova hypotéza
 * lekce_07 `Fišerův nadhled`_ a Moduly_
+* lekce_08_ Rotační spektra dusíku
 
 .. _lekce_01: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_01/praktikum.ipynb
 .. _lekce_02: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_02/praktikum.ipynb
@@ -16,3 +17,4 @@ Materiály sesbírané při výuce předmětu F4500 Python pro fyziky.
 .. _lekce_06: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_06/Dvo%C5%99%C3%A1kova%20hypot%C3%A9za%20-%20vzorov%C3%A9%20%C5%99e%C5%A1en%C3%AD.ipynb
 .. _Fišerův nadhled: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_07/FiseruvNadhled.ipynb
 .. _Moduly: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_07/Moduly.ipynb
+.. _lekce_08: https://github.com/ziky5/F4500_Python_pro_fyziky/blob/master/lekce_08/N2spec.ipynb
